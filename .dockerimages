@@ -1,0 +1,2 @@
+POSTGRES_CONTAINER_NAME=postgres16
+POSTGRES_IMAGE=postgres:16-alpine

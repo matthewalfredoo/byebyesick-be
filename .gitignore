@@ -1,0 +1,14 @@
+.env
+*.log
+.idea/
+/app/appdb/sqlc
+/app/appdb/query
+*.json
+*.png
+*.jpeg
+*.jpg
+*.txt
+seeding-data.md
+/app/cmd/cmd
+k6/
+main
